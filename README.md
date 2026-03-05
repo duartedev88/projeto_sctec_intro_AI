@@ -128,5 +128,4 @@ Ao executar, tres janelas de graficos vao aparecer (uma de cada vez). Feche a ja
 
 ---
 
-**Proximo passo recomendado**
-Se quiser salvar os graficos em arquivos PNG, podemos atualizar `srs/visualizacao.py` para exportar automaticamente as imagens na pasta `visualizacoes/`.
+
